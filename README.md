@@ -15,4 +15,4 @@ This repository features implementations of different deep learning models using
 
 ## Credits
 
-This code was implemented as part of the Deep Learning class in DTU. The code is partially based on https://github.com/DeepLearningDTU.
+The code is partially based on https://github.com/DeepLearningDTU (Deep Learning course DTU).
